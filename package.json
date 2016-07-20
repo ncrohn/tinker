@@ -1,0 +1,21 @@
+{
+  "name": "tinker",
+  "version": "1.0.0",
+  "description": "Utility to help test live pages locally.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Crohn",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.11.4",
+    "babel-preset-es2015": "^6.9.0",
+    "gulp": "^3.9.1",
+    "gulp-change": "^1.0.0",
+    "gulp-connect": "^4.2.0",
+    "request": "^2.73.0",
+    "through2": "^2.0.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
